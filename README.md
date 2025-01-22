@@ -1,2 +1,2 @@
 # python
-This is python practice codes
+Here is python practice codes
